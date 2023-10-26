@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://qwerewqwerew.github.io/retype-etc/sitemap.xml.gz
