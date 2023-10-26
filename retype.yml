@@ -1,0 +1,17 @@
+input: .
+output: .retype
+url: https://qwerewqwerew.github.io/retype-etc
+branding:
+  title: ✔ 템플릿프로젝트
+  label: Docs
+links:
+  - text: Respository
+    link: https://github.com/qwerewqwerew/retype-etc.git
+cache:
+  strategy: none
+exclude:
+  - 'draft/'
+markdown:
+  lineBreaks: hard
+footer:
+  copyright: '&copy; Copyright {{ year }}. All rights reserved.'
